@@ -46,7 +46,6 @@ function App() {
               </>
             }></Route>
             <Route path='/about' element={<AboutPage />} />
-//             <Route path='/post/*' element={<Post />} />
           </Routes>
           {/* NavLink demonstration */}
           {/* <Card>
